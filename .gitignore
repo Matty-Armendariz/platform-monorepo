@@ -1,9 +1,12 @@
-/.gradle
-/build
-/node_modules
-/.idea
-/.vscode
-/.env*
-/dist
-/.pnpm-store
+node_modules/
+dist/
+.out/
+.cache/
+# Java
+.gradle/
+build/
+# Go
+bin/
+# Misc
+.env
 .DS_Store
